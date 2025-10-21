@@ -1,0 +1,69 @@
+.header{
+    display: inline-block;
+   
+    
+}
+.pp{
+    width: 17%;
+}
+.conteiner {
+    display: inline-block;
+    border-style: solid;
+    text-align: center;
+    float: right;
+    border-radius: 10px;
+   
+     
+}
+.conteiner>p{
+    text-align: center;
+}
+.tt{
+    display: block;
+}
+ .ooo{
+    
+   float: right;
+}
+
+.eee{
+    border-radius: 10px;
+     display: inline-block;
+    border-style: solid;
+    width: 80%;
+    float: right;
+}
+ .www{
+    
+   float: right;
+}
+
+.qqq{
+    border-radius: 10px;
+     display: inline-block;
+    border-style: solid;
+    width: 80%;
+    float: right;
+}
+.nnn{
+    border-bottom: 1px solid #000; width: 100%; padding: 10px 0;
+}
+.ll{
+    display: block;
+   border-bottom: 1px solid #000; width: 49.7%; padding: 10px 0;
+}
+.cc{
+ border-bottom: 1px solid #000; width: 49.7%; padding: 10px 0;
+}
+.zz{
+    width: 65px;
+    height: 28px;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,119 @@
+
+.conteiner{
+    display: inline-block;
+    border-style: solid;
+    text-align: center;
+    float: right;
+    border-radius: 10px;
+     
+}
+.page{
+    display: flex; 
+}
+.header{
+    border-radius: 10px;
+    width: 13%;
+    background-color: rgb(177, 250, 250);
+    border-style: solid;
+    border-width: 0.5px;
+}
+.sertion{
+    width: 86%;
+}
+.header>div{
+    width: 100%;
+}
+.header>div>img{
+    width: 100%;
+}
+
+.tex{
+ text-align: center;
+ border-bottom-style: solid;
+ border-width: 0.5px;
+}
+.conteiner{
+    border-width: 0.5px;
+    background-color: rgb(177, 250, 250);
+}
+
+.sertion{
+    padding-left: 15px;
+}
+
+.navbar{
+    border-radius: 10px;
+     border-style: solid;
+    border-width: 0.5px;
+    
+    
+    padding: 1em;
+    background-color: rgb(177, 250, 250);
+}
+.navbar>span{
+    float: right;
+    margin-top: -18px;
+    
+}
+
+.nav-list a {
+     
+    text-decoration: none;
+    color: black;
+    padding: 1em;
+    
+}
+
+.nav-list a:hover{
+    background-color: rgb(89, 98, 100);
+}    
+
+.rales{
+    border-radius: 10px;
+    display: inline-block;
+    border-style: solid;
+}
+.rales>p{
+    text-align: center;
+}
+.appel{
+    display: inline-block;
+    border-style: solid;
+    width: 24%;
+    float: right;
+    border-radius: 10px;
+}
+.bvm{
+    width: 90%;
+}
+.eat{
+    
+    float: right;
+    height: min-content;
+    border-radius: 10px;
+}
+.opel{
+     display: inline-block;
+    border-style: solid;
+    width: 78%;
+     border-radius: 10px;
+}
+.ppp{
+    border-bottom: 1px solid #000; width: 100%; padding: 10px 0;
+}
+.ooo{
+    
+   float: right;
+}
+
+.eee{
+    border-radius: 10px;
+     display: inline-block;
+    border-style: solid;
+    width: 30%;
+     float: right;
+}
+
+.div{
+    float: right;
+}
